@@ -1,4 +1,4 @@
-# Calculator
+# 🧮 Calculator
 A simple and fully functional Calculator built using HTML, CSS, and JavaScript as part of my CodeAlpha Internship – Task 2.
 - - -
 🚀 Features
@@ -22,4 +22,5 @@ A simple and fully functional Calculator built using HTML, CSS, and JavaScript a
 - JavaScript – Logic and functionality
 - - -
 🔗 Live Demo
+
 https://rasina-dotcom.github.io/Calculator/
