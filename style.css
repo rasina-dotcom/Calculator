@@ -1,0 +1,82 @@
+/* Body and Calculator Layout */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #4facfe, #00f2fe);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.calculator {
+    background: #222;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    width: 300px;
+}
+
+/* Display */
+#display {
+    width: 100%;
+    height: 60px;
+    font-size: 2rem;
+    text-align: right;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background: #333;
+    color: #fff;
+}
+
+/* Buttons Layout */
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+/* Button Styles */
+button {
+    height: 60px;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.2s;
+    color: #fff;
+}
+
+/* Number Buttons */
+button:not(.operator):not(.function) {
+    background: #555;
+}
+
+button:hover:not(.operator):not(.function) {
+    background: #666;
+}
+
+/* Operator Buttons */
+.operator {
+    background: #ff9500;
+}
+
+.operator:hover {
+    background: #ffa733;
+}
+
+/* Function Buttons */
+.function {
+    background: #a6a6a6;
+    color: #000;
+}
+
+.function:hover {
+    background: #b5b5b5;
+}
+
+/* Zero Button (span two columns) */
+.zero {
+    grid-column: span 2;
+}
