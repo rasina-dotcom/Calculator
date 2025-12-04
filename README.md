@@ -1,6 +1,6 @@
 # Calculator
 A simple and fully functional Calculator built using HTML, CSS, and JavaScript as part of my CodeAlpha Internship – Task 2.
-
+- - -
 🚀 Features
 
 - Basic arithmetic operations
@@ -12,7 +12,7 @@ A simple and fully functional Calculator built using HTML, CSS, and JavaScript a
 - Real-time calculation display
 
 - Works on all devices (mobile-friendly)
-
+- - -
 🛠️ Tech Stack
 
 - HTML – Structure
@@ -20,6 +20,6 @@ A simple and fully functional Calculator built using HTML, CSS, and JavaScript a
 - CSS – Styling
 
 - JavaScript – Logic and functionality
-
+- - -
 🔗 Live Demo
 https://rasina-dotcom.github.io/Calculator/
