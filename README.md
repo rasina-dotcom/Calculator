@@ -3,23 +3,23 @@ A simple and fully functional Calculator built using HTML, CSS, and JavaScript a
 
 🚀 Features
 
-Basic arithmetic operations
+- Basic arithmetic operations
 
-Clean and responsive UI
+- Clean and responsive UI
 
-Button click interactions
+- Button click interactions
 
-Real-time calculation display
+- Real-time calculation display
 
-Works on all devices (mobile-friendly)
+- Works on all devices (mobile-friendly)
 
 🛠️ Tech Stack
 
-HTML – Structure
+- HTML – Structure
 
-CSS – Styling
+- CSS – Styling
 
-JavaScript – Logic and functionality
+- JavaScript – Logic and functionality
 
 🔗 Live Demo
 https://rasina-dotcom.github.io/Calculator/
